@@ -24,14 +24,12 @@ The data is split into training, validation, and testing sets for proper model e
 - PyTorch  
 - torchvision  
 - scikit-learn  
-- NumPy  
-- Pandas  
-- Matplotlib  
+- NumPy
 
 Install dependencies:
 
 ```bash
-pip install torch torchvision scikit-learn numpy pandas matplotlib
+pip install torch torchvision scikit-learn numpy
 ```
 
 ## Results
